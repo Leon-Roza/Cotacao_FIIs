@@ -1,2 +1,2 @@
 # Cotação FIIs
- Webcrapping para capturar a cotação atual de fundos imobiliários Brasileiros
+ Webcrapping to capture the current quotation of Brazilian real estate funds
